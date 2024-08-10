@@ -16,6 +16,9 @@ Code associated with my thesis
 Explanation on folder structure:
 
 -CustomRobBERT - contains code used to fine-tune a Dutch RobBERT model - model itself available upon request (Upload size limits)
+
 -MainThesisCode - contains the main code used for the transcription, diarization, affect analysis, correlation and prediction
+
 -MiscCode - contains a variety of test scripts
+
 -SanneAnalysisCode - contains code relevant to side analyses
