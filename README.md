@@ -1,5 +1,5 @@
 # Master thesis project
-|General info|
+|General info||
 |---|---|
 |Author:|Lennard R. Bornemann|
 |Project:|Master thesis|
